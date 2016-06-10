@@ -1,0 +1,2 @@
+# Planetary-Sandbox-C-Source
+This program allows you to create your own planet and moon, where you can insert different values for different characteristics of the two that change their behaviours. (Note: For the mass and radius of your planet and moon, you must insert your values in terms of "Earth-masses"and "Moon masses". I.E: Inserting 3 under "Mass for planet" means "make the mass of your planet 3 times the Earth's mass" )
